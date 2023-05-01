@@ -13,4 +13,14 @@ public class Details {
     System.out.println("3");
 
 	}
+    private void vilage() {
+    System.out.println("village");
+	}
+    private void town() {
+	System.out.println("town");
+	}
+    private void city() {
+    System.out.println("city");
+
+	}
 }
